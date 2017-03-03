@@ -17,7 +17,7 @@ $( document ).ready(function() {
       $('#skuDataTable').DataTable().destroy();
     }
     var filterKategori = $('#sku_kat').val();
-    $.getJSON(base_url_semmi+'/api/getSkuHeader?key=ganteng&filter='+filterKategori,function(data){
+    $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getSkuHeader?key=ganteng&filter='+filterKategori,function(data){
       $.each(data,function(key,value){
         data += '<th>'+ value +'</th>';
         $('#headerSku').html(data);
@@ -48,7 +48,7 @@ $( document ).ready(function() {
     });
     var base_url = window.location.origin;
     var base_url_semmi = window.location.origin+'';
-    $.getJSON(base_url_semmi+'/api/getTlCabangAndkota?key=ganteng&id_tl='+id_tl,function(data){
+    $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getTlCabangAndkota?key=ganteng&id_tl='+id_tl,function(data){
       var arrCabang = [{id:0, text : 'Cabang'}];
       var arrKota = [{id:0, text : 'Kota'}];
       $.each(data,function(key,value){
@@ -76,7 +76,7 @@ $( document ).ready(function() {
 
     var base_url = window.location.origin;
     var base_url_semmi = window.location.origin+'';
-    $.getJSON(base_url_semmi+'/api/getAssignedStore?key=ganteng&id_user='+id_user,function(data){
+    $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getAssignedStore?key=ganteng&id_user='+id_user,function(data){
       var arr = [{id:0, text : 'Toko'}];
       $.each(data,function(key,value){
           arr.push({id : value.id, text : value.nama});
@@ -86,7 +86,7 @@ $( document ).ready(function() {
         data : arr,
       });
     })
-    $.getJSON(base_url_semmi+'/api/getBranchFromName?key=ganteng&id_user='+id_user,function(data){
+    $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getBranchFromName?key=ganteng&id_user='+id_user,function(data){
       var arr = [{id:0, text : 'Cabang'}];
       $.each(data,function(key,value){
           arr.push({id : value.id, text : value.nama});
@@ -113,7 +113,7 @@ $( document ).ready(function() {
     }
     var base_url = window.location.origin;
     var base_url_semmi = window.location.origin+'';
-    $.getJSON(base_url_semmi+'/api/getCabangInKota?key=ganteng&id_toko='+id_toko,function(data){
+    $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getCabangInKota?key=ganteng&id_toko='+id_toko,function(data){
       var arr = [{id : 0, text : 'Cabang'}];
       arr.push({id : data.id, text : data.nama});
       $('#cabang').select2({
@@ -156,7 +156,7 @@ $( document ).ready(function() {
 
       var base_url = window.location.origin;
       var base_url_semmi = window.location.origin+'';
-      $.getJSON(base_url_semmi+'/api/getKotaInCabang?key=ganteng&id_cabang='+id_cabang,function(data){
+      $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getKotaInCabang?key=ganteng&id_cabang='+id_cabang,function(data){
         var arr = [{id:0, text : 'Kota'}];
         $.each(data,function(key,value){
           console.log(value.id_kota);
@@ -194,7 +194,7 @@ $( document ).ready(function() {
         var filterKategori = $('#sku_kat').val();
         var base_url = window.location.origin;
         var base_url_semmi = window.location.origin+'';
-        var href = base_url_semmi+'/api/excelReport?key=ganteng&ba='+baFilter+'&tl='+tlFilter+'&cabang='+cabangFilter+'&kota='+kotaFilter+'&startDate='+startDate+'&endDate='+endDate+'&toko='+tokoFilter;
+        var href = base_url_semmi+'/indofood_trial_vps/api/excelReport?key=ganteng&ba='+baFilter+'&tl='+tlFilter+'&cabang='+cabangFilter+'&kota='+kotaFilter+'&startDate='+startDate+'&endDate='+endDate+'&toko='+tokoFilter;
         $('#excelDownload').attr('href',href);
         var filter={
           'ba' : baFilter,
@@ -230,7 +230,7 @@ $( document ).ready(function() {
     var base_url_semmi = window.location.origin+'';
     var data = '';
     var filterKategori = $('#sku_kat').val();
-    $.getJSON(base_url_semmi+'/api/getSkuHeader?key=ganteng&filter='+filterKategori,function(data){
+    $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getSkuHeader?key=ganteng&filter='+filterKategori,function(data){
       $.each(data,function(key,value){
         data += '<th>'+ value +'</th>';
         $('#headerSku').html(data);
@@ -243,7 +243,7 @@ function fetchBa() {
 
   var base_url = window.location.origin;
   var base_url_semmi = window.location.origin+'';
-  $.getJSON(base_url_semmi+'/api/getBaName?key=ganteng',function(data){
+  $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getBaName?key=ganteng',function(data){
     // console.log(JSON.stringify(data));
     var arr = [{id : 0, text : 'BA'}];
     $.each(data ,function(key,value){
@@ -260,7 +260,7 @@ function fetchBa() {
 function fetchToko() {
   var base_url = window.location.origin;
   var base_url_semmi = window.location.origin+'';
-  $.getJSON(base_url_semmi+'/api/getToko?key=ganteng',function(data){
+  $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getToko?key=ganteng',function(data){
     // console.log(JSON.stringify(data));
     var arr = [{id : 0, text : 'Toko'}];
     $.each(data ,function(key,value){
@@ -278,7 +278,7 @@ function fetchCabang() {
 
   var base_url = window.location.origin;
   var base_url_semmi = window.location.origin+'';
-  $.getJSON(base_url_semmi+'/api/getAllCabang?key=ganteng',function(data){
+  $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getAllCabang?key=ganteng',function(data){
     var arr = [{id : 0, text : 'Cabang'}];
     $.each(data ,function(key,value){
       arr.push({id : value.id_cabang, text : value.nama});
@@ -293,7 +293,7 @@ function fetchCabang() {
 function fetchTl() {
   var base_url = window.location.origin;
   var base_url_semmi = window.location.origin+'';
-  $.getJSON(base_url_semmi+'/api/getTl?key=ganteng',function(data){
+  $.getJSON(base_url_semmi+'/indofood_trial_vps/api/getTl?key=ganteng',function(data){
     // console.log(JSON.stringify(data));
     var arr = [{id : 0, text : 'Tl'}];
     $.each(data ,function(key,value){
