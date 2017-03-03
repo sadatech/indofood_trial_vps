@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b091b5-f87a-46b6-b74f-a55002faa879" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="indofod_git" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Sada.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Sada.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55080">
+              <caret line="3317" column="25" lean-forward="false" selection-start-line="3317" selection-start-column="16" selection-end-line="3317" selection-end-column="25" />
+              <folding>
+                <marker date="1481169748678" expanded="true" signature="3187:5628" ph="SELECT `id_u... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="3263:3532" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="3559:3828" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="3856:4125" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="4154:4423" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="4455:4724" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="4753:4797" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="4816:4860" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="4880:4924" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="4945:4989" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="5013:5057" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="5677:8118" ph="SELECT `id_u... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="5752:6021" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="6048:6317" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="6345:6614" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="6643:6912" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="6944:7213" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="7242:7286" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="7305:7349" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="7369:7413" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="7434:7478" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="7502:7546" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="9165:10669" ph="SELECT sada_... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="9273:9361" ph="SELECT cab.n... sada_cabang" />
+                <marker date="1481169748678" expanded="true" signature="9878:10106" ph="select sum(s... sada_target" />
+                <marker date="1481169748678" expanded="true" signature="9925:10075" ph="select id_us... sada_tokoinuser_temp" />
+                <marker date="1481169748678" expanded="true" signature="13506:16184" ph="SELECT -- `i... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="13586:13877" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="13906:14197" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="14227:14518" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="14549:14840" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="14874:15165" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="15198:15268" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="15294:15364" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="15391:15461" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="15489:15559" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="15590:15660" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="16496:19428" ph="SELECT -- `i... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="16576:16867" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="16896:17187" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="17217:17508" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="17539:17830" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="17864:18155" ph="SELECT SUM(q... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="18188:18258" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="18284:18354" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="18381:18451" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="18479:18549" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="18580:18650" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="18680:18891" ph="SELECT DISTI... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="19818:21813" ph="SELECT sada_... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="19926:20013" ph="SELECT cab.p... sada_cabang" />
+                <marker date="1481169748678" expanded="true" signature="20041:20139" ph="SELECT cab.n... sada_cabang" />
+                <marker date="1481169748678" expanded="true" signature="20555:20766" ph="SELECT SUM( sada_target" />
+                <marker date="1481169748678" expanded="true" signature="20607:20682" ph="SELECT id_ko... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="20688:20765" ph="select id_ko... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="20786:21115" ph="SELECT COUNT... sada_tokoinuser_temp" />
+                <marker date="1481169748678" expanded="true" signature="21137:21359" ph="SELECT COUNT... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="24286:27737" ph="SELECT ( SEL... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="24301:24468" ph="SELECT DISTI... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="24517:24902" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="24608:24751" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="24616:24687" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="24789:24901" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="24929:25314" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="25020:25163" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="25028:25099" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="25201:25313" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="25342:25727" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="25433:25576" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="25441:25512" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="25614:25726" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="25756:26141" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="25847:25990" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="25855:25926" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="26028:26140" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="26173:26558" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="26264:26407" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="26272:26343" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="26445:26557" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="26591:26661" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="26687:26757" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="26784:26854" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="26882:26952" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="26983:27053" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="27083:27294" ph="SELECT DISTI... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="27742:27913" ph="SELECT DISTI... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="28225:31692" ph="SELECT ( SEL... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="28240:28407" ph="SELECT DISTI... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="28456:28841" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="28547:28690" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="28555:28626" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="28728:28840" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="28868:29253" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="28959:29102" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="28967:29038" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="29140:29252" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="29281:29666" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="29372:29515" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="29380:29451" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="29553:29665" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="29695:30080" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="29786:29929" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="29794:29865" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="29967:30079" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="30112:30497" ph="SELECT SUM(s... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="30203:30346" ph="select (sele... sada_produk" />
+                <marker date="1481169748678" expanded="true" signature="30211:30282" ph="select id fr... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="30384:30496" ph="select disti... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="30530:30600" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="30626:30696" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="30723:30793" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="30821:30891" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="30922:30992" ph="SELECT price... sada_kategori" />
+                <marker date="1481169748678" expanded="true" signature="31022:31233" ph="SELECT DISTI... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="31697:31868" ph="SELECT DISTI... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="33828:35793" ph="SELECT DISTI... sada_produk_terjual" />
+                <marker date="1481169748678" expanded="true" signature="33908:34059" ph="SELECT DISTI... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="34083:34220" ph="SELECT DISTI... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="34253:34476" ph="SELECT ( SEL... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="34266:34379" ph="SELECT COUNT... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="35096:35259" ph="select sum(s... sada_target" />
+                <marker date="1481169748678" expanded="true" signature="35143:35227" ph="select id_ac... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="35632:35760" ph="SELECT id_ac... sada_account_temp" />
+                <marker date="1481169748678" expanded="true" signature="45701:45846" ph="SELECT sada_... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="48181:52931" ph="SELECT DISTI... sada_form_contact" />
+                <marker date="1481169748678" expanded="true" signature="48209:48287" ph="SELECT nama sada_cabang" />
+                <marker date="1481169748678" expanded="true" signature="48316:48394" ph="select nama sada_user" />
+                <marker date="1481169748678" expanded="true" signature="48413:48491" ph="select stay sada_user" />
+                <marker date="1481169748678" expanded="true" signature="54098:54644" ph="SELECT disti... sada_tl_in_kota" />
+                <marker date="1481169748678" expanded="true" signature="54126:54567" ph="SELECT ( SEL... sada_toko" />
+                <marker date="1481169748678" expanded="true" signature="54153:54464" ph="SELECT ( SEL... sada_kota" />
+                <marker date="1481169748678" expanded="true" signature="54188:54347" ph="SELECT id_ca... sada_cabang" />
+                <marker date="1481169748678" expanded="true" signature="73653:73657" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select2FilterOutOfStock.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/custom/select2FilterOutOfStock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3196">
+              <caret line="188" column="20" lean-forward="false" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="34" />
+              <folding>
+                <marker date="1480510342823" expanded="true" signature="3755:7358" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="3991:7354" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="5187:6076" ph="{&quot;dom&quot;: 'Bfrtip'...}" />
+                <marker date="1480510342823" expanded="true" signature="5334:5501" ph="[...]" />
+                <marker date="1480510342823" expanded="true" signature="5348:5489" ph="//..." />
+                <marker date="1480510342823" expanded="true" signature="5522:5641" ph="{&quot;url&quot;: 'api/oosReport?key=ganteng'...}" />
+                <marker date="1480510342823" expanded="true" signature="5665:6066" ph="[...]" />
+                <marker date="1480510342823" expanded="true" signature="6088:7346" ph="//..." />
+                <marker date="1480510342823" expanded="true" signature="7381:7826" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="7545:7822" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="7664:7738" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="7762:7816" ph="{&quot;data&quot;: arr...}" />
+                <marker date="1480510342823" expanded="true" signature="7849:8308" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="8010:8304" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="8131:8216" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="8242:8298" ph="{&quot;data&quot;: arr...}" />
+                <marker date="1480510342823" expanded="true" signature="8333:8741" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="8500:8737" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="8581:8647" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="8675:8731" ph="{&quot;data&quot;: arr...}" />
+                <marker date="1480510342823" expanded="true" signature="8762:9192" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="8921:9188" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="9040:9104" ph="{...}" />
+                <marker date="1480510342823" expanded="true" signature="9128:9182" ph="{&quot;data&quot;: arr...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Api.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="3162" column="0" lean-forward="true" selection-start-line="3162" selection-start-column="0" selection-end-line="3162" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>oos</find>
+      <find>oosReport</find>
+      <find>outOfStockReport</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/Api.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indofod_git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indofod_git" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indofod_git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indofod_git" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indofod_git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indofod_git" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b091b5-f87a-46b6-b74f-a55002faa879" name="Default" comment="" />
+      <created>1480498186411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480498186411</updated>
+      <workItem from="1480498188872" duration="1773000" />
+      <workItem from="1481777367145" duration="1161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2934000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/models/Sada.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1481169748678" expanded="true" signature="3187:5628" ph="SELECT `id_u... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="3263:3532" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="3559:3828" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="3856:4125" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="4154:4423" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="4455:4724" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="4753:4797" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="4816:4860" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="4880:4924" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="4945:4989" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="5013:5057" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="5677:8118" ph="SELECT `id_u... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="5752:6021" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6048:6317" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6345:6614" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6643:6912" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6944:7213" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="7242:7286" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7305:7349" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7369:7413" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7434:7478" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7502:7546" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="9165:10669" ph="SELECT sada_... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="9273:9361" ph="SELECT cab.n... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="9878:10106" ph="select sum(s... sada_target" />
+            <marker date="1481169748678" expanded="true" signature="9925:10075" ph="select id_us... sada_tokoinuser_temp" />
+            <marker date="1481169748678" expanded="true" signature="13506:16184" ph="SELECT -- `i... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="13586:13877" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="13906:14197" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="14227:14518" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="14549:14840" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="14874:15165" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="15198:15268" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15294:15364" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15391:15461" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15489:15559" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15590:15660" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="16496:19428" ph="SELECT -- `i... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="16576:16867" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="16896:17187" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="17217:17508" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="17539:17830" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="17864:18155" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="18188:18258" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18284:18354" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18381:18451" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18479:18549" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18580:18650" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18680:18891" ph="SELECT DISTI... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="19818:21813" ph="SELECT sada_... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="19926:20013" ph="SELECT cab.p... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="20041:20139" ph="SELECT cab.n... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="20555:20766" ph="SELECT SUM( sada_target" />
+            <marker date="1481169748678" expanded="true" signature="20607:20682" ph="SELECT id_ko... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="20688:20765" ph="select id_ko... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="20786:21115" ph="SELECT COUNT... sada_tokoinuser_temp" />
+            <marker date="1481169748678" expanded="true" signature="21137:21359" ph="SELECT COUNT... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="24286:27737" ph="SELECT ( SEL... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="24301:24468" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="24517:24902" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="24608:24751" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="24616:24687" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="24789:24901" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="24929:25314" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="25020:25163" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="25028:25099" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="25201:25313" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="25342:25727" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="25433:25576" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="25441:25512" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="25614:25726" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="25756:26141" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="25847:25990" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="25855:25926" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26028:26140" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="26173:26558" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="26264:26407" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="26272:26343" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26445:26557" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="26591:26661" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26687:26757" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26784:26854" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26882:26952" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26983:27053" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="27083:27294" ph="SELECT DISTI... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="27742:27913" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="28225:31692" ph="SELECT ( SEL... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="28240:28407" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="28456:28841" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="28547:28690" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="28555:28626" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="28728:28840" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="28868:29253" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="28959:29102" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="28967:29038" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="29140:29252" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="29281:29666" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="29372:29515" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="29380:29451" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="29553:29665" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="29695:30080" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="29786:29929" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="29794:29865" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="29967:30079" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="30112:30497" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="30203:30346" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="30211:30282" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30384:30496" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="30530:30600" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30626:30696" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30723:30793" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30821:30891" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30922:30992" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="31022:31233" ph="SELECT DISTI... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="31697:31868" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="33828:35793" ph="SELECT DISTI... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="33908:34059" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="34083:34220" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="34253:34476" ph="SELECT ( SEL... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="34266:34379" ph="SELECT COUNT... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="35096:35259" ph="select sum(s... sada_target" />
+            <marker date="1481169748678" expanded="true" signature="35143:35227" ph="select id_ac... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="35632:35760" ph="SELECT id_ac... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="45701:45846" ph="SELECT sada_... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="48181:52931" ph="SELECT DISTI... sada_form_contact" />
+            <marker date="1481169748678" expanded="true" signature="48209:48287" ph="SELECT nama sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="48316:48394" ph="select nama sada_user" />
+            <marker date="1481169748678" expanded="true" signature="48413:48491" ph="select stay sada_user" />
+            <marker date="1481169748678" expanded="true" signature="54098:54644" ph="SELECT disti... sada_tl_in_kota" />
+            <marker date="1481169748678" expanded="true" signature="54126:54567" ph="SELECT ( SEL... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="54153:54464" ph="SELECT ( SEL... sada_kota" />
+            <marker date="1481169748678" expanded="true" signature="54188:54347" ph="SELECT id_ca... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="73653:73657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/select2FilterOutOfStock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="190" column="34" lean-forward="false" selection-start-line="190" selection-start-column="25" selection-end-line="190" selection-end-column="34" />
+          <folding>
+            <marker date="1480510342823" expanded="true" signature="3755:7358" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="3991:7354" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="5187:6076" ph="{&quot;dom&quot;: 'Bfrtip'...}" />
+            <marker date="1480510342823" expanded="true" signature="5334:5501" ph="[...]" />
+            <marker date="1480510342823" expanded="true" signature="5348:5489" ph="//..." />
+            <marker date="1480510342823" expanded="true" signature="5522:5641" ph="{&quot;url&quot;: 'api/oosReport?key=ganteng'...}" />
+            <marker date="1480510342823" expanded="true" signature="5665:6066" ph="[...]" />
+            <marker date="1480510342823" expanded="true" signature="6088:7346" ph="//..." />
+            <marker date="1480510342823" expanded="true" signature="7381:7826" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="7545:7822" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="7664:7738" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="7762:7816" ph="{&quot;data&quot;: arr...}" />
+            <marker date="1480510342823" expanded="true" signature="7849:8308" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8010:8304" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8131:8216" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8242:8298" ph="{&quot;data&quot;: arr...}" />
+            <marker date="1480510342823" expanded="true" signature="8333:8741" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8500:8737" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8581:8647" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8675:8731" ph="{&quot;data&quot;: arr...}" />
+            <marker date="1480510342823" expanded="true" signature="8762:9192" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8921:9188" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="9040:9104" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="9128:9182" ph="{&quot;data&quot;: arr...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50388">
+          <caret line="3219" column="0" lean-forward="true" selection-start-line="3218" selection-start-column="89" selection-end-line="3218" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/select2FilterOutOfStock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="20" lean-forward="false" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="34" />
+          <folding>
+            <marker date="1480510342823" expanded="true" signature="3755:7358" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="3991:7354" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="5187:6076" ph="{&quot;dom&quot;: 'Bfrtip'...}" />
+            <marker date="1480510342823" expanded="true" signature="5334:5501" ph="[...]" />
+            <marker date="1480510342823" expanded="true" signature="5348:5489" ph="//..." />
+            <marker date="1480510342823" expanded="true" signature="5522:5641" ph="{&quot;url&quot;: 'api/oosReport?key=ganteng'...}" />
+            <marker date="1480510342823" expanded="true" signature="5665:6066" ph="[...]" />
+            <marker date="1480510342823" expanded="true" signature="6088:7346" ph="//..." />
+            <marker date="1480510342823" expanded="true" signature="7381:7826" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="7545:7822" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="7664:7738" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="7762:7816" ph="{&quot;data&quot;: arr...}" />
+            <marker date="1480510342823" expanded="true" signature="7849:8308" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8010:8304" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8131:8216" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8242:8298" ph="{&quot;data&quot;: arr...}" />
+            <marker date="1480510342823" expanded="true" signature="8333:8741" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8500:8737" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8581:8647" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8675:8731" ph="{&quot;data&quot;: arr...}" />
+            <marker date="1480510342823" expanded="true" signature="8762:9192" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="8921:9188" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="9040:9104" ph="{...}" />
+            <marker date="1480510342823" expanded="true" signature="9128:9182" ph="{&quot;data&quot;: arr...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Sada.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55080">
+          <caret line="3317" column="25" lean-forward="false" selection-start-line="3317" selection-start-column="16" selection-end-line="3317" selection-end-column="25" />
+          <folding>
+            <marker date="1481169748678" expanded="true" signature="3187:5628" ph="SELECT `id_u... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="3263:3532" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="3559:3828" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="3856:4125" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="4154:4423" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="4455:4724" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="4753:4797" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="4816:4860" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="4880:4924" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="4945:4989" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="5013:5057" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="5677:8118" ph="SELECT `id_u... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="5752:6021" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6048:6317" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6345:6614" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6643:6912" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="6944:7213" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="7242:7286" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7305:7349" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7369:7413" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7434:7478" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="7502:7546" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="9165:10669" ph="SELECT sada_... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="9273:9361" ph="SELECT cab.n... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="9878:10106" ph="select sum(s... sada_target" />
+            <marker date="1481169748678" expanded="true" signature="9925:10075" ph="select id_us... sada_tokoinuser_temp" />
+            <marker date="1481169748678" expanded="true" signature="13506:16184" ph="SELECT -- `i... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="13586:13877" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="13906:14197" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="14227:14518" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="14549:14840" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="14874:15165" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="15198:15268" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15294:15364" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15391:15461" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15489:15559" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="15590:15660" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="16496:19428" ph="SELECT -- `i... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="16576:16867" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="16896:17187" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="17217:17508" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="17539:17830" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="17864:18155" ph="SELECT SUM(q... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="18188:18258" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18284:18354" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18381:18451" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18479:18549" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18580:18650" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="18680:18891" ph="SELECT DISTI... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="19818:21813" ph="SELECT sada_... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="19926:20013" ph="SELECT cab.p... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="20041:20139" ph="SELECT cab.n... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="20555:20766" ph="SELECT SUM( sada_target" />
+            <marker date="1481169748678" expanded="true" signature="20607:20682" ph="SELECT id_ko... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="20688:20765" ph="select id_ko... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="20786:21115" ph="SELECT COUNT... sada_tokoinuser_temp" />
+            <marker date="1481169748678" expanded="true" signature="21137:21359" ph="SELECT COUNT... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="24286:27737" ph="SELECT ( SEL... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="24301:24468" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="24517:24902" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="24608:24751" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="24616:24687" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="24789:24901" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="24929:25314" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="25020:25163" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="25028:25099" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="25201:25313" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="25342:25727" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="25433:25576" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="25441:25512" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="25614:25726" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="25756:26141" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="25847:25990" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="25855:25926" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26028:26140" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="26173:26558" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="26264:26407" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="26272:26343" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26445:26557" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="26591:26661" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26687:26757" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26784:26854" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26882:26952" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="26983:27053" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="27083:27294" ph="SELECT DISTI... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="27742:27913" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="28225:31692" ph="SELECT ( SEL... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="28240:28407" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="28456:28841" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="28547:28690" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="28555:28626" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="28728:28840" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="28868:29253" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="28959:29102" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="28967:29038" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="29140:29252" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="29281:29666" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="29372:29515" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="29380:29451" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="29553:29665" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="29695:30080" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="29786:29929" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="29794:29865" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="29967:30079" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="30112:30497" ph="SELECT SUM(s... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="30203:30346" ph="select (sele... sada_produk" />
+            <marker date="1481169748678" expanded="true" signature="30211:30282" ph="select id fr... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30384:30496" ph="select disti... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="30530:30600" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30626:30696" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30723:30793" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30821:30891" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="30922:30992" ph="SELECT price... sada_kategori" />
+            <marker date="1481169748678" expanded="true" signature="31022:31233" ph="SELECT DISTI... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="31697:31868" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="33828:35793" ph="SELECT DISTI... sada_produk_terjual" />
+            <marker date="1481169748678" expanded="true" signature="33908:34059" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="34083:34220" ph="SELECT DISTI... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="34253:34476" ph="SELECT ( SEL... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="34266:34379" ph="SELECT COUNT... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="35096:35259" ph="select sum(s... sada_target" />
+            <marker date="1481169748678" expanded="true" signature="35143:35227" ph="select id_ac... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="35632:35760" ph="SELECT id_ac... sada_account_temp" />
+            <marker date="1481169748678" expanded="true" signature="45701:45846" ph="SELECT sada_... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="48181:52931" ph="SELECT DISTI... sada_form_contact" />
+            <marker date="1481169748678" expanded="true" signature="48209:48287" ph="SELECT nama sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="48316:48394" ph="select nama sada_user" />
+            <marker date="1481169748678" expanded="true" signature="48413:48491" ph="select stay sada_user" />
+            <marker date="1481169748678" expanded="true" signature="54098:54644" ph="SELECT disti... sada_tl_in_kota" />
+            <marker date="1481169748678" expanded="true" signature="54126:54567" ph="SELECT ( SEL... sada_toko" />
+            <marker date="1481169748678" expanded="true" signature="54153:54464" ph="SELECT ( SEL... sada_kota" />
+            <marker date="1481169748678" expanded="true" signature="54188:54347" ph="SELECT id_ca... sada_cabang" />
+            <marker date="1481169748678" expanded="true" signature="73653:73657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="3162" column="0" lean-forward="true" selection-start-line="3162" selection-start-column="0" selection-end-line="3162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

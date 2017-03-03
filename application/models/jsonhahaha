@@ -1,0 +1,46 @@
+[
+   {  
+      "nama":"Rizaldi",
+      "data":[  
+         {  
+            "hari ini":"Masuk",
+            "biodata":[  
+               {  
+                  "test":"1",
+                  "test":"2"
+               }
+            ]
+         },
+         {  
+            "hari ini":"Masuk",
+            "biodata":[  
+               {  
+                  "test":"1",
+                  "test":"2"
+               }
+            ]
+         }
+      ],
+      "nama":"Semmi",
+      "semmi": [
+      {  
+            "hari ini":"Masuk",
+            "biodata":[  
+               {  
+                  "test":"1",
+                  "test":"2"
+               }
+            ]
+         },
+         {  
+            "hari ini":"Masuk",
+            "biodata":[  
+               {  
+                  "test":"1",
+                  "test":"2"
+               }
+            ]
+         }
+      ]
+   }
+]
